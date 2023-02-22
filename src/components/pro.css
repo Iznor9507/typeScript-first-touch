@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.img {
+  width: 240px;
+  height: 200px;
+}
+
+.prods {
+  width: 800px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  margin-top: 50px;
+  border: 2px solid red;
+}
+
+.desc {
+  width: 500px;
+}
